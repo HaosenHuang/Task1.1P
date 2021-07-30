@@ -23,7 +23,7 @@ header:hover p {
 }
 
 header p {
-	visibility:visible;
+	visibility:hidden;
 	position: absolute;
 	bottom: 60px;
 	height: 60px;
